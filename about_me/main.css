@@ -1,0 +1,22 @@
+body {
+    background-image:  url("bg-img.png");
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    border: 2px solid;
+    border-color: cyan;
+    color: #c62800;
+    font-size: 3rem;
+}
+
+td {
+    padding:  3rem;
+    text-align: center;
+}
+
+th {
+    padding: 2rem;
+}
